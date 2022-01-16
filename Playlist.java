@@ -22,7 +22,7 @@ class Playlist {
    
     // System.out.println(nayaraPlaylist);
     
-    // trocando a ordem das mísicas da lista
+    // trocando a ordem das músicas da lista
     int indexA = nayaraPlaylist.indexOf("Beales - Let it Be");
     int indexB = nayaraPlaylist.indexOf("Queens - Somebody to Love");
     
